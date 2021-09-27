@@ -8,3 +8,5 @@ sudo mkdir projects/C++
 sudo apt-get install python3
 sudo apt-get install python
 sudo apt-get install python-pip
+cd ../projects/python
+echo "This is an example" >> try.txt
